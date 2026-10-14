@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+next-env.d.ts
+*.tsbuildinfo
+
+# Local database and uploaded files
+data
+
+.env
+.env.local
+.env.*.local
+.DS_Store
